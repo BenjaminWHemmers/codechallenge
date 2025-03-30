@@ -1,2 +1,2 @@
-# codechallenge
-code challenge
+# MindexCodingChallenge
+Java coding challenge.
